@@ -23,7 +23,8 @@ Features include:
 
 ## Architecture Diagram
 
-![alt text](image-6.png)
+<img width="552" height="732" alt="image" src="https://github.com/user-attachments/assets/e8f04bac-d2e8-42e1-b4fa-9e83de9a0cf9" />
+
 
 ---
 
