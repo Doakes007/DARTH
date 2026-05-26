@@ -221,5 +221,7 @@ flutter run
 
 ## Contributors
 
+- Rhiya Giridhara Bhat
 - Chirag N
-- Team Members
+- Ghanashyam D
+- Tarun GP
