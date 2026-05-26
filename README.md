@@ -23,18 +23,7 @@ Features include:
 
 ## Architecture Diagram
 
-```
-Frontend (Flutter)
-       |
-REST APIs (Flask Backend)
-       |
-Fraud Detection Pipeline
-(Preprocessing + Feature Engineering)
-       |
-Balanced Random Forest Model
-       |
-PostgreSQL Database
-```
+![alt text](image-6.png)
 
 ---
 
